@@ -51,3 +51,8 @@ group :production do
   gem 'rails_12factor'
 end
 
+# Additional gems for this application
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+
